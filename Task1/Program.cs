@@ -10,10 +10,10 @@ class Task1
         Console.WriteLine("Введите координату точки x:");
         double x = Convert.ToDouble(Console.ReadLine());
 
-        Console.WriteLine("Введите координаты y:");
+        Console.WriteLine("Введите координату точки y:");
         double y = Convert.ToDouble(Console.ReadLine());
 
-        Console.WriteLine("Введите координаты x0:");
+        Console.WriteLine("Введите координату точки x0:");
         double x0 = Convert.ToDouble(Console.ReadLine());
 
         Console.WriteLine("Введите координату точки y0:");
